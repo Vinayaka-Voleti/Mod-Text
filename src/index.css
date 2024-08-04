@@ -14,3 +14,6 @@ code {
 .accordion-button::after {
   filter: brightness(7);
 }
+#Copy-right{
+  text-align: center;
+}
