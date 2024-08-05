@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mod-Text/static/css/main.bd2f0782.css",
+    "main.js": "/Mod-Text/static/js/main.466a7350.js",
+    "static/js/453.56f46472.chunk.js": "/Mod-Text/static/js/453.56f46472.chunk.js",
+    "index.html": "/Mod-Text/index.html",
+    "main.bd2f0782.css.map": "/Mod-Text/static/css/main.bd2f0782.css.map",
+    "main.466a7350.js.map": "/Mod-Text/static/js/main.466a7350.js.map",
+    "453.56f46472.chunk.js.map": "/Mod-Text/static/js/453.56f46472.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd2f0782.css",
+    "static/js/main.466a7350.js"
+  ]
+}
