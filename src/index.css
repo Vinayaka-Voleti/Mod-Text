@@ -14,6 +14,16 @@ code {
 .accordion-button::after {
   filter: brightness(7);
 }
-#Copy-right{
-  text-align: center;
+.container1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#Copy-right {
+  margin-right: 10px; /* Adjust the margin to your desired spacing */
+}
+
+#GitHub {
+  margin-left: 10px; /* Optional: Adjust if needed for uniformity */
 }

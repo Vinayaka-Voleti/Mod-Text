@@ -11,6 +11,6 @@ function Alert(props) {
     </div>}
     </div>
   )
-}
+} 
 
 export default Alert

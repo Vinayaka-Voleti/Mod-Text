@@ -1,3 +1,5 @@
+import logo from './logo.svg';
+
 import { useState } from "react";
 import "./App.css";
 import NavBar from "./Components/NavBar";

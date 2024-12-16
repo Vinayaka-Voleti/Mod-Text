@@ -1,5 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
+// import './Navbar.css'; // Import the CSS file for the navbar
 // import { Link } from 'react-router-dom'
 export default function NavBar(props)  {
     return(
@@ -52,12 +53,12 @@ export default function NavBar(props)  {
   
 }
 
-NavBar.propTypes = {
-    title: PropTypes.string.isRequired,
-    terms: PropTypes.string.isRequired,
-    policy: PropTypes.string.isRequired,
+// NavBar.propTypes = {
+//     title: PropTypes.string.isRequired,
+//     terms: PropTypes.string.isRequired,
+//     policy: PropTypes.string.isRequired,
 
-}
+// }
 // NavBar.defaultProps = {
 //     title: 'Title Anna',
 //     terms: 'theTerms',
